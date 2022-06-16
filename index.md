@@ -12,7 +12,7 @@ Before that, I attended three years of preparatory classes in Mathematics and Ph
 
 - **Cadre expérimental pour l’évaluation de méthodes hybrides en
 configuration interactive sous contraintes** [Paper](url)  
-Idir BOUMBAR, Elise VAREILLES, Paul GABORIT and Xavier LORCA, JFPC 2022
+Idir BOUMBAR, Elise VAREILLES, Paul GABORIT and Xavier LORCA, *JFPC* 2022
 
 ### Teaching
 
