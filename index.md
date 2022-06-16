@@ -10,7 +10,8 @@ Before that, I attended three years of preparatory classes in Mathematics and Ph
 
 ### Publications
 **Cadre expérimental pour l’évaluation de méthodes hybrides en
-configuration interactive sous contraintes**[Link](url)
+configuration interactive sous contraintes**,[paper](url)
+
 Idir BOUMBAR, Elise VAREILLES, Paul GABORIT and Xavier LORCA
 
 ### Contacts
