@@ -21,13 +21,13 @@ Supervision of a computer science workshop for ISAE-SUPAERO 1st year student. C 
 
 ### Contacts
 
-Idir BOUMBAR  
-ISAE-SUPAERO  
-10 Av. Edouard Belin,  
-31400 Toulouse, France
+**Postal adress** : Idir BOUMBAR  
+                    ISAE-SUPAERO  
+                    10 Av. Edouard Belin,  
+                    31400 Toulouse, France
 
-Mail : firstname.lastname at isae-supaero.fr
+**Mail** : firstname.lastname at isae-supaero.fr
 
-Phone : 05 61 33 80 80 - Fax : 05 61 33 83 30
+**Phone** : 05 61 33 80 80 - Fax : 05 61 33 83 30
 
-Linkedin : [in/idirboumbar](https://www.linkedin.com/in/idirboumbar/)
+**Linkedin** : [in/idirboumbar](https://www.linkedin.com/in/idirboumbar/)
