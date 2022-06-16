@@ -26,7 +26,7 @@ ISAE-SUPAERO
 10 Av. Edouard Belin,  
 31400 Toulouse, France
 
-**Mail** : idir **dot** boumbar **at** isae-supaero.fr
+**Mail** : idir **(dot)** boumbar **(at)** isae-supaero.fr
 
 **Phone** : 05 61 33 80 80 - Fax : 05 61 33 83 30
 
