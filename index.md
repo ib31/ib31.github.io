@@ -1,37 +1,25 @@
-## Welcome to Idir BOUMBAR Pages
+## Idir BOUMBAR
 
-You can use the [editor on GitHub](https://github.com/ib31/ib31.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+PhD student @ ISAE-Supaéro x IMT Mines Albi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Since December 1st, 2021, I am a PhD student at the Département d’Ingenieurie des Systèmes Complexes (DISC) at ISAE-Supaéro in Toulouse and at the Centre Génie Industriel (CGI) at IMT Mines Albi in Albi. I work on interactive resolution methods based on constraint programming and knowledge compilation applied to configuration. I am under the supervision of Elise Vareilles (ISAE-Supaéro), Paul Gaborit (IMT Mines Albi), Hélène Fargier (IRIT) and Xavier Lorca (IMT Mines Albi).
 
-### Markdown
+I graduated from IMT Mines Albi in 2021 as a general engineer with a specialization in information systems engineering. During my studies I had the opportunity to spend 6 months as an exchange student at Mississippi State University (MS, USA) in the computer science department. I did an internship at CEA (March - September 2021) on the use of NLP for crisis management.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Before that, I attended three years of preparatory classes in Mathematics and Physics at the Lycée Jacques Amyot.
 
-```markdown
-Syntax highlighted code block
+### Publications
+**Cadre expérimental pour l’évaluation de méthodes hybrides en
+configuration interactive sous contraintes**[Link](url)
+Idir BOUMBAR, Elise VAREILLES, Paul GABORIT and Xavier LORCA
 
-# Header 1
-## Header 2
-### Header 3
+### Contacts
 
-- Bulleted
-- List
+Idir BOUMBAR
+ISAE-SUPAERO
+10 Av. Edouard Belin,
+31400 Toulouse, France
 
-1. Numbered
-2. List
+Mail : firstname.lastname at isae-supaero.fr
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ib31/ib31.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Phone : 05 61 33 80 80 - Fax : 05 61 33 83 30
