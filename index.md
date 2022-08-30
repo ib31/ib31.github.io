@@ -11,7 +11,7 @@ Before that, I attended three years of preparatory classes in Mathematics and Ph
 ### Publications
 
 - **Cadre expérimental pour l’évaluation de méthodes hybrides en
-configuration interactive sous contraintes** [Paper](url)  
+configuration interactive sous contraintes** [Paper]([url](https://ci.mines-stetienne.fr/pfia2022/conferences/jfpc/actes.pdf))  
 Idir BOUMBAR, Elise VAREILLES, Paul GABORIT and Xavier LORCA, *JFPC* 2022
 
 ### Teaching
