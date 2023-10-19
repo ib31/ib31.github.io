@@ -4,7 +4,7 @@
 
 I am a Ph.D. student at ISAE-Supaéro and IMT Mines Albi-Carmaux, both affiliated with the University of Toulouse. My research focuses on innovative approaches involving the joint application of constraint programming and knowledge compilation. My work addresses industrial product configuration problems. I am under the supervision of Elise Vareilles (ISAE-Supaéro) and Xavier Lorca (IMT Mines Albi), but i also work with Paul Gaborit (IMT Mines Albi) and Hélène Fargier (ANITI).
 
-I graduated from IMT Mines Albi in 2021 as a multi-disciplinary engineer, combining expertise in fundamental sciences, technical training, and management/finance. During my studies, I had the opportunity to spend 6 months as an exchange student at Mississippi State University (MS, USA) in the computer science department. I also did an internship at CEA (March - September 2021) on the use of NLP for crisis management.
+I graduated from IMT Mines Albi in 2021 as a multi-disciplinary engineer, combining expertise in fundamental sciences, technical training, and management/finance. During my studies, I had the opportunity to take an exchange semester program at Mississippi State University in the computer science department. I also did an internship at CEA on the use of NLP for crisis management.
 
 ### Publications
 
@@ -16,6 +16,8 @@ Idir BOUMBAR, Elise VAREILLES, Paul GABORIT and Xavier LORCA, *JFPC* 2022
 
 - **Algorithms and programming, ISAE-SUPAERO**  
 Supervision of a computer science workshop for ISAE-SUPAERO 1st year students. C programming, data structures, and analysis of algorithms.
+- **Optimization in graphs, ISAE-SUPAERO**
+Taught classes on shortest paths and dynamic programming. Supervised a workshop focusing on minimum spanning trees and TSP.
 
 ### Contacts
 
