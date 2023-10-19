@@ -2,11 +2,9 @@
 
 **PhD student @ ISAE-Supaéro x IMT Mines Albi**
 
-Since December 1st, 2021, I am a PhD student at the Département d’Ingénierie des Systèmes Complexes (DISC) at ISAE-Supaéro in Toulouse and at the Centre Génie Industriel (CGI) at IMT Mines Albi in Albi. I work on interactive resolution methods based on constraint programming and knowledge compilation applied to configuration. I am under the supervision of Elise Vareilles (ISAE-Supaéro), Paul Gaborit (IMT Mines Albi), Hélène Fargier (IRIT) and Xavier Lorca (IMT Mines Albi).
+I am a Ph.D. student at ISAE-Supaéro and IMT Mines Albi-Carmaux, both affiliated with the University of Toulouse. My research focuses on innovative approaches involving the joint application of constraint programming and knowledge compilation. My work addresses industrial product configuration problems. I am under the supervision of Elise Vareilles (ISAE-Supaéro) and Xavier Lorca (IMT Mines Albi), but i also work with Paul Gaborit (IMT Mines Albi) and Hélène Fargier (ANITI).
 
-I graduated from IMT Mines Albi in 2021 as a general engineer with a specialization in information systems engineering. During my studies, I had the opportunity to spend 6 months as an exchange student at Mississippi State University (MS, USA) in the computer science department. I also did an internship at CEA (March - September 2021) on the use of NLP for crisis management.
-
-Before that, I attended three years of preparatory classes in Mathematics and Physics at the Lycée Jacques Amyot.
+I graduated from IMT Mines Albi in 2021 as a multi-disciplinary engineer, blending fundamental sciences, technical training, and management/finance expertise. During my studies, I had the opportunity to spend 6 months as an exchange student at Mississippi State University (MS, USA) in the computer science department. I also did an internship at CEA (March - September 2021) on the use of NLP for crisis management.
 
 ### Publications
 
