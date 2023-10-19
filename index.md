@@ -16,7 +16,7 @@ Idir BOUMBAR, Elise VAREILLES, Paul GABORIT and Xavier LORCA, *JFPC* 2022
 
 - **Algorithms and programming, ISAE-SUPAERO**  
 Supervision of a computer science workshop for ISAE-SUPAERO 1st year students. C programming, data structures, and analysis of algorithms.
-- **Optimization in graphs, ISAE-SUPAERO**
+- **Optimization in graphs, ISAE-SUPAERO**  
 Taught classes on shortest paths and dynamic programming. Supervised a workshop focusing on minimum spanning trees and TSP.
 
 ### Contacts
