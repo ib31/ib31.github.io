@@ -1,6 +1,6 @@
 ## Idir BOUMBAR
 
-**PhD student @ ISAE-Supaéro x IMT Mines Albi**
+**PhD student @ ISAE-Supaéro & IMT Mines Albi**
 
 I am a Ph.D. student at ISAE-Supaéro and IMT Mines Albi-Carmaux, both affiliated with the University of Toulouse. My research focuses on innovative approaches involving the joint application of constraint programming and knowledge compilation. My work addresses industrial product configuration problems. I am under the supervision of Elise Vareilles (ISAE-Supaéro) and Xavier Lorca (IMT Mines Albi), but i also work with Paul Gaborit (IMT Mines Albi) and Hélène Fargier (ANITI).
 
