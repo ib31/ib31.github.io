@@ -10,6 +10,7 @@ I graduated from IMT Mines Albi in 2021 as a multi-disciplinary engineer, combin
 
 - **Cadre expérimental pour l’évaluation de méthodes hybrides en
 configuration interactive sous contraintes.**
+
 Idir BOUMBAR, Elise VAREILLES, Paul GABORIT and Xavier LORCA, *JFPC* 2022 [Paper](https://ci.mines-stetienne.fr/pfia2022/conferences/jfpc/actes.pdf)
 
 
