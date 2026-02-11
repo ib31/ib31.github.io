@@ -1,4 +1,4 @@
-# Idir
+
 
 I am passionate about mathematics, algorithms, and artificial intelligence, and their applications in computer science.
 
