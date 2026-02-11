@@ -19,6 +19,7 @@ I primarily use programming as a tool for experimentation, modeling, and analysi
 - Programming and experimental prototyping  
 - Applying artificial intelligence algorithms to practical problems  
 - Organization, documentation, and analysis of results
+  
 ---
 
 ## Projects
