@@ -1,6 +1,6 @@
+As an engineer specialized in AI and optimization, I share my experiences and projects focused on complex algorithms, software pipelines, simulations, and applied machine learning techniques.
 
-
-I am passionate about mathematics, algorithms, and artificial intelligence, and their applications in computer science.
+This blog is still under construction, but new explorations and projects will be published regularly.
 
 ---
 
